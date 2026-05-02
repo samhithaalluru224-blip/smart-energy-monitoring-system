@@ -132,7 +132,7 @@ This project demonstrates how embedded systems and sensors can be combined to cr
 ---
 
 AUTHOR
-Samhtitha.A
+Samhitha.A
 Amrutha.K
 
 
