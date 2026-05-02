@@ -3,7 +3,7 @@
 
  Overview
 
-The **Smart Energy Home System** is an Arduino-based project designed to monitor environmental conditions and control electrical devices automatically. It integrates multiple sensors to collect real-time data such as temperature, humidity, air quality, distance, and current consumption.
+The **Smart Energy Home System** is an Arduino-based project designed to monitor environmental conditions. It integrates multiple sensors to collect real-time data such as temperature, humidity, air quality, distance, and current consumption.
 
 The system displays this information on an LCD and performs automatic actions like turning ON/OFF appliances and triggering alerts.
 
